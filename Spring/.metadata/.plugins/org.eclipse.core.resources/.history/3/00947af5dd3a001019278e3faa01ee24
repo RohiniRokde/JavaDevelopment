@@ -1,0 +1,23 @@
+package com.mvc.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class ProductController {
+	
+	public ProductController() {
+		
+		System.out.println("Product::Constructor");
+		
+	
+	}
+	
+	public String ProductMethod() {
+		
+		System.out.println("Inside Product Method....!");
+		return "product";
+		
+	}
+	
+
+}

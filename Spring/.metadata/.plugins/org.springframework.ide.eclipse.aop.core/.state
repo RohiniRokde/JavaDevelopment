@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="08-SpringAutoWiringName"/>
+<aop-project name="10-SpringAutoWiringConstructor"/>
+<aop-project name="12-Spring Core Annotations"/>
+<aop-project name="06-Spring_Collection"/>
+<aop-project name="09-SpringAutoWiringType"/>
+<aop-project name="11-AutowiringAnnotation"/>
+<aop-project name="05-Spring_HasA_Constructor"/>
+<aop-project name="07-SpringScope"/>
+<aop-project name="04-Spring_HasA_Setter"/>
+<aop-project name="02-Spring_SetterBase"/>
+<aop-project name="03-Spring_Constructor"/>
+<aop-project name="01-Spring-IOC"/>
+</aop-reference-model>

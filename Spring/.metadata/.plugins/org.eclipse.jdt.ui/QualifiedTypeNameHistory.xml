@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+<fullyQualifiedTypeName name="com.demo.Student"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.util.ClassPath"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+<fullyQualifiedTypeName name="com.demo.Farmer"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+<fullyQualifiedTypeName name="com.setter.Student"/>
+<fullyQualifiedTypeName name="com.HasA.Student"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicListUI.ListDataHandler"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.collection.Student"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="com.Student.Student"/>
+<fullyQualifiedTypeName name="com.Student.Employee"/>
+<fullyQualifiedTypeName name="java.applet.AppletContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="com.byName.Student"/>
+</qualifiedTypeNameHistroy>

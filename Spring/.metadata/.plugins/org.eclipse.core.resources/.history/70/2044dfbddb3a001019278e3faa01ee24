@@ -1,0 +1,20 @@
+package com.mvc.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class UserController {
+
+	
+public UserController() {
+		
+		System.out.println("User::Constructor");
+}
+
+
+public String UserMethod() {
+	
+	System.out.println("Inside User Method....!");
+	return "user";
+	
+}

@@ -1,0 +1,20 @@
+package com.mvc.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class OrderController {
+	
+public OrderController() {
+		
+		System.out.println("Order::Constructor");
+
+}
+
+public String OrderMethod() {
+	
+	System.out.println("Inside Order Method....!");
+	return "order";
+	
+}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;15-Spring Core Annotation4/src/Info&apos; to &apos;Info.properties&apos;" description="Rename resource &apos;Info&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Info" name="Info.properties" stamp="1747737121092" updateReferences="true"/>
+</session>
